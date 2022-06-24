@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/taes" />
+
+    <Button
+        android:id="@+id/button49"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shadowColor="#FFFFFF"
+        android:text="Goa"
+        android:textColorLink="#F7FFFFFF"
+        app:cornerRadius="250dp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gujarat"
+        app:cornerRadius="250dp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button51"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Himachal Pradesh"
+        app:cornerRadius="250dp"
+        app:strokeColor="#FFEB3B"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button52"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jammu and Kashmir"
+        app:cornerRadius="250dp"
+        app:strokeColor="#F43636"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button53"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Karnataka"
+        app:cornerRadius="250dp"
+        app:strokeColor="#F43636"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button54"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kerala"
+        app:cornerRadius="250dp"
+        app:strokeColor="#F43636"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button55"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Madhya Pradesh"
+        app:cornerRadius="250dp"
+        app:strokeColor="#07F471"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button56"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Punjab"
+        app:cornerRadius="250dp"
+        app:strokeColor="#07F471"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button57"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rajasthan"
+        app:cornerRadius="250dp"
+        app:strokeColor="#07F471"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button58"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tamil Nadu"
+        app:cornerRadius="250dp"
+        app:strokeColor="#00FFFF"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button59"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Uttar Pradesh"
+        app:cornerRadius="250dp"
+        app:strokeColor="#00FFFF"
+        app:strokeWidth="7dp" />
+
+    <Button
+        android:id="@+id/button60"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="West Bengal"
+        app:cornerRadius="250dp"
+        app:strokeColor="#00FFFF"
+        app:strokeWidth="7dp" />
+
+
+</LinearLayout>
